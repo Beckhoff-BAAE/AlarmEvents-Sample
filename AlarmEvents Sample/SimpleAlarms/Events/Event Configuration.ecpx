@@ -1,0 +1,38 @@
+<TcEventSources SourceCount="2" EventCount="4" LinkCount="0">
+	<Source>
+		<Id>1</Id>
+		<Name LcId="1033">Pump on the mountain</Name>
+		<Event>
+			<Message LcId="1033">no water</Message>
+			<Id>1</Id>
+			<Class>7</Class>
+			<Priority>0</Priority>
+			<ReqMustCon>1</ReqMustCon>
+		</Event>
+		<Event>
+			<Message LcId="1033">Tripped with overcurrent</Message>
+			<Id>2</Id>
+			<Class>6</Class>
+			<Priority>0</Priority>
+			<ReqMustCon>1</ReqMustCon>
+		</Event>
+	</Source>
+	<Source>
+		<Id>2</Id>
+		<Name LcId="1033">Tank in the field</Name>
+		<Event>
+			<Message LcId="1033">Full</Message>
+			<Id>1</Id>
+			<Class>6</Class>
+			<Priority>0</Priority>
+			<ReqMustCon>0</ReqMustCon>
+		</Event>
+		<Event>
+			<Message LcId="1033">Empty</Message>
+			<Id>2</Id>
+			<Class>6</Class>
+			<Priority>0</Priority>
+			<ReqMustCon>0</ReqMustCon>
+		</Event>
+	</Source>
+</TcEventSources>

@@ -1,0 +1,1 @@
+Open event Configurator with "TcEventConfigurator.exe" located at C:\TwinCAT\3.1\Components\TcEventLogger\EventConfigurator
