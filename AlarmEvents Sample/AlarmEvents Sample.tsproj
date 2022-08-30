@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <TcSmProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4024.32">
-	<Project ProjectGUID="{C5230AEF-4371-4263-9461-596C9286E4D5}" Target64Bit="true" ShowHideConfigurations="#x106">
+	<Project ProjectGUID="{C5230AEF-4371-4263-9461-596C9286E4D5}" TargetNetId="39.139.122.3.1.1" ShowHideConfigurations="#x106">
 		<System>
 			<Tasks>
 				<Task Id="3" Priority="20" CycleTime="100000" AmsPort="350" AdtTasks="true">
@@ -13,7 +13,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{0CC46C4A-B779-4D9B-9AA0-C92D8556B489}" Name="SimpleAlarms" PrjFilePath="SimpleAlarms\SimpleAlarms.plcproj" TmcFilePath="SimpleAlarms\SimpleAlarms.tmc" ReloadTmc="true" AmsPort="851" TargetArchiveSettings="#x0000" FileArchiveSettings="#x0002" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="SimpleAlarms\SimpleAlarms.tmc" TmcHash="{A99B486B-71FD-9B76-BCF6-5FD854145598}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="SimpleAlarms\SimpleAlarms.tmc" TmcHash="{840C07B1-3480-2411-8CE9-36063F14306C}">
 					<Name>SimpleAlarms Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Contexts>

@@ -1,1 +1,26 @@
 Id;Default
+820;%d
+401;%d>50?:Event
+504;aaa
+464;alarm with parameters
+710;Error id:%d
+172;Error id:%x
+67;Error id:0x%x
+131;Event %d
+591;Event 1
+885;event 1
+773;Event 2
+452;event 2
+834;event2
+193;Event:Value>50
+257;Event?:%d>50
+709;Event?:Value>50
+642;Evet 1
+564;Evet i
+971;float %.2f
+884;int %i
+634;quit
+370;Source %d
+506;Source 1
+761;Source 2
+263;Source 3
