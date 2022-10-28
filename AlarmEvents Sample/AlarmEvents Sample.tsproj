@@ -13,7 +13,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{0CC46C4A-B779-4D9B-9AA0-C92D8556B489}" Name="SimpleAlarms" PrjFilePath="SimpleAlarms\SimpleAlarms.plcproj" TmcFilePath="SimpleAlarms\SimpleAlarms.tmc" ReloadTmc="true" AmsPort="851" TargetArchiveSettings="#x0000" FileArchiveSettings="#x0002" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="SimpleAlarms\SimpleAlarms.tmc" TmcHash="{840C07B1-3480-2411-8CE9-36063F14306C}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="SimpleAlarms\SimpleAlarms.tmc" TmcHash="{EF3A7844-8199-2ED4-70CB-389B3045F871}">
 					<Name>SimpleAlarms Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Contexts>
